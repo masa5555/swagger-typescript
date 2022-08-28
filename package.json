@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "swagger-cli": "^4.0.4",
+    "swagger-typescript-api": "^9.3.1",
+    "swagger-ui-watcher": "^2.1.12",
+    "typescript": "^4.7.4"
+  }
+}
