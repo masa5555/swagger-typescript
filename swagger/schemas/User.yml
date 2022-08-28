@@ -1,0 +1,10 @@
+type: object
+required: [id, name]
+properties:
+  id:
+    type: integer
+  name:
+    type: string
+  nested:
+    type: object
+    $ref: "./UserNested.yml"

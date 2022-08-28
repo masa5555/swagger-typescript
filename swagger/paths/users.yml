@@ -1,0 +1,13 @@
+get:
+  summary: Get all users
+  parameters:
+    []
+  responses:
+    '200':
+      description: A list of users.
+      content:
+        application/json:
+          schema:
+            type: array
+            items:
+              $ref: '../schemas/User.yml'

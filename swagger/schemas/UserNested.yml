@@ -1,0 +1,4 @@
+type: object
+properties:
+  nested1:
+    type: integer

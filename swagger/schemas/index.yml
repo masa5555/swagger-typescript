@@ -1,0 +1,6 @@
+User:
+  $ref: "./User.yml"
+UserNested:
+  $ref: "./UserNested.yml"
+Error:
+  $ref: "./Error.yml"
